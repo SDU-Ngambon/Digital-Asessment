@@ -1,0 +1,6 @@
+{
+  "name": "Digital Assessment - CBT & AI Question Generator",
+  "description": "Platform Asesmen Digital Computer Based Test (CBT) komprehensif dengan AI Question Generator (Gemini 3.8), integrasi Pusat Data, manajemen Bank Soal, dan Multi-Peran (Admin, Guru, Siswa).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
